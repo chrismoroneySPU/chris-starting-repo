@@ -4,7 +4,7 @@
   "description": "Chris Moroney Example",
   "engines": {
     "node": "12.x"
-  }
+  },
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
@@ -16,7 +16,7 @@
   },
   "keywords": [
     "nodejs",
-    "heroku"
+    "SPU"
   ],
   "author": "Chris Moroney",
   "license": "ISC",
